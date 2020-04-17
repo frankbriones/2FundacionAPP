@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
 		fontSize: 20,
 		fontFamily: 'monospace',
 		//fontStyle: 'italic',
-		//textDecorationLine: 'underline'
+		textDecorationLine: 'underline'
 	}
 
 
